@@ -9,35 +9,37 @@ Al inicio de la misma, va a aparecer un formulario que permita logearse y, deoen
 
 ### Tareas: 
 
-Investigación y redacción de preguntas y sus respuestas
-Diseño de imagen y de la UI
-Diseño de la base de datos 
-Funciones de interacción con la base (API, Flask) 
-Front-end del juego (HTML, CSS, JS)
-Testeo 
-Puesta en producción
+1. Investigación de lugares para el sitio.
+2. Diseño de imágen y UI.
+3. Elaboración de la Base de Datos.
+4. Funciones de interacción con la base (API, FLASK)
+5. Desarrollar Front-end (HTML, CSS, JS).
+6. Desarrollar Back-end (PYTHON, MYSQL).
+7. Testeo.
+8. Puesta en producción.
 
 ### Reponsabilidades:
 
-3. Gutierrez
-6. López
-4. 7. 6. Rodríguez
-5. 6. Perez
+* 3-4-5-7-8 Fornés
+* 1-2-5-7-8 Mennuti
+* 1-3-7-8 Santa Cruz
+* 4-6-7-8 Tartaglia
 
-### Primer entregable (30/6)
+### Primer entregable (28/10)
 
 Estructura de la base de datos
-Preguntas y respuestas
-Reglas y puntajes
+Información simple de los lugares
 Maqueta html
+API en Flask (Estructura)
 
-### Segundo entregable (7/7)
+### Segundo entregable (11/11)
 
-API en flask de preguntas y respuestas
-UI de preguntas y respuetas en conjunto con back-end
-Pruebas de juego
+HTML Completo.
+Estructura completa de Flask.
+Base de Datos completa.
+Pruebas de la aplicación.
 
-### Tercer entregable (14/7)
+### Tercer entregable (18/11)
 
-Juego completo en línea
+Aplicación completa en línea.
 

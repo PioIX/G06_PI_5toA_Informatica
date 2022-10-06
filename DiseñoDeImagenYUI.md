@@ -1,6 +1,6 @@
 # Diseño de Imágen y UI
 
-1. Elementos
+1. Elementos  
 
 ![1](https://github.com/PioIX/Proyecto_final_grupo06/blob/6262bd82c3cbb411a6b87fd27a54ec50271e9f7a/img/1.png)
 
@@ -12,7 +12,7 @@
 
 ![3](https://github.com/PioIX/Proyecto_final_grupo06/blob/6262bd82c3cbb411a6b87fd27a54ec50271e9f7a/img/3.png)
 
-4. Página Inicial
+4. Página Inicial 
 
 ![4](https://github.com/PioIX/Proyecto_final_grupo06/blob/6262bd82c3cbb411a6b87fd27a54ec50271e9f7a/img/4.png)
 

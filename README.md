@@ -1,4 +1,4 @@
-# Proyecto Final Grupo 6 - 5ºA Informática
+# Proyecto Interdisciplinario | Grupo 6 - 5ºA Informática
 
 ## Integrantes:
 * Fornés, Agustina

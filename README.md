@@ -14,4 +14,5 @@
 
 * <a href="presupuesto.md"> Presupuesto </a>
 * <a href="DiseñoDeImagenYUI.md"> Diseño de Imágen y UI </a>
+* <a href="img/Estructura_BaseDeDatos.jpg"> Estructura de Base de Datos </a>
 * <a href="BaseDeDatos/BD_RDS.db"> Base de Datos</a> 

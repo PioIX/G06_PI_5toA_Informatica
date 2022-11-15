@@ -16,4 +16,4 @@
 * <a href="DiseñoDeImagenYUI.md"> Diseño de Imágen y UI </a>
 * <a href="img/Estructura_BaseDeDatos.jpg"> Estructura de Base de Datos </a>
 * <a href="BaseDeDatos/BD_RDS.db"> Base de Datos</a> 
-* <a href="presupuesto.md"> Triptico </a>
+* <a href="Triptico.md"> Triptico </a>
